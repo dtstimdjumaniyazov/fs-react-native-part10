@@ -8,4 +8,4 @@ You can try the app on your phone by scanning the following QR code with Expo Go
 
 ![QR code](./assets/qr-code.svg)
 
-Update link: https://expo.dev/accounts/dtstimdjumaniyazov/projects/rate-repository-app/updates/af428526-0a3b-4aa2-aaa6-4a6cd139e898
+Update link: https://qr.expo.dev/eas-update?slug=exp&projectId=2a30a0d2-1f33-47ab-b4d6-686f6430fab4&groupId=24a7f3c5-5b43-47f4-87fd-322523d6c205&host=u.expo.dev
